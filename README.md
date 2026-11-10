@@ -1,25 +1,26 @@
 # Reflection – AI Number Program Lab
 
 ##  Student Name:
-(Enter your name here)
+Harrison
 
 ##  GitHub Repository Link:
-(Insert your repository URL here)
+https://github.com/hlondeen/cmsc115_unit8_lab2 
 
 ## Iteration 1
 
 What the AI code does:
 -
+Sums the array.
 
 Tests passed/failed:
 -
-
+failed
 What surprised you:
 -
 
 Commit message:
 -
-
+Iteration 1: AI-Generate implementation
 ---
 
 ## Iteration 2
