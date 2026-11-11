@@ -46,16 +46,19 @@ Iteration 2: largest value implementation
 
 Final behavior:
 -
+unit tests passed! 
 
 What was fixed:
 -
+error handling. 
 
 What you learned:
 -
+AI is great if it has all the contex, terrible if you only give it half the story.
 
 Commit message:
 -
-
+Iteration 3: final version passing all tests
 ---
 
 ## Final Reflection
