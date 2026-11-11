@@ -27,16 +27,19 @@ Iteration 1: AI-Generate implementation
 
 What changed:
 -
+Looks for a single int over an array.
 
 What improved:
 -
+new error, so progress as the old one cleared.
 
 What still failed and why:
 -
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
 
 Commit message:
 -
-
+Iteration 2: largest value implementation
 ---
 
 ## Iteration 3
