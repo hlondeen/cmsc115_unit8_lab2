@@ -64,5 +64,8 @@ Iteration 3: final version passing all tests
 ## Final Reflection
 
 - How did AI responses change across prompts?
+- --> it assumes as the prompts are very vague with next to no context. High error rate expected.
 - How did testing affect your changes?
+- --> it was given more context and could solve the problem.  AI is great to write, but still should be tested.
 - What did version control help you understand?
+- isolate chane to see what actually fixed things.
